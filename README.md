@@ -12,7 +12,7 @@
 
 ```bash
 git clone https://github.com/fedmackenzie/django-music-catalog.git
-cd music-catalog-project
+cd django-music-catalog
 docker compose build
 docker compose up -d
 ```
